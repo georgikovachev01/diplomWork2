@@ -1,4 +1,4 @@
-<img src="https://user-images.githubusercontent.com/47269634/55819333-2a623c80-5b16-11e9-9e68-7383086d8b80.png" align =right height='150'>
+]<img src="https://user-images.githubusercontent.com/47269634/55819333-2a623c80-5b16-11e9-9e68-7383086d8b80.png" align =right height='150'>
 
 
 [![Issues](https://img.shields.io/github/issues-raw/oss2019/instigo-android.svg?color=red)](https://github.com/oss2019/instigo-android/issues) [![Pull Requests](https://img.shields.io/github/issues-pr/oss2019/instigo-android.svg?color=yellow)](https://github.com/oss2019/instigo-android/pulls) [![License](https://img.shields.io/github/license/oss2019/instigo-android.svg?logoColor=red)](https://github.com/oss2019/instigo-android/blob/master/LICENSE.md) [![Gitter](https://img.shields.io/badge/chat-on%20gitter-ff006f.svg?style=flat-square)](https://gitter.im/oss2019/instigo-android)

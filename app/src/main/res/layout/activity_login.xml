@@ -43,7 +43,6 @@
           android:alpha="1"
           android:contentDescription="@string/hello_world"
           android:paddingTop="20dp"
-          android:src="@drawable/logo_instigo"
           android:visibility="invisible"
           />
     </androidx.constraintlayout.widget.ConstraintLayout>
@@ -184,16 +183,8 @@
           android:textSize="20sp"
           />
 
-      <View
-          android:layout_width="match_parent"
-          android:layout_height="2dp"
-          android:layout_marginBottom="10dp"
-          android:layout_marginEnd="50dp"
-          android:layout_marginStart="50dp"
-          android:background="@drawable/gradient_view"
-          app:layout_constraintBottom_toBottomOf="@id/login_tv1"
 
-          />
+
 
       <RelativeLayout
           android:id="@+id/google_relative_layout"

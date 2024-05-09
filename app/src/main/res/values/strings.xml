@@ -1,5 +1,5 @@
 <resources>
-  <string name="app_name">InstiGo</string>
+  <string name="app_name">Parking App</string>
 
   <string name="notification_channel_name">Alarms</string>
   <string name="notification_channel_description">Notifications for all alarms from Instigo</string>

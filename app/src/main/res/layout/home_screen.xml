@@ -26,18 +26,9 @@
           android:layout_width="match_parent"
           android:layout_height="match_parent"
           android:scaleType="fitXY"
-          android:src="@drawable/image_home_back"
-          />
+          android:src="@drawable/image_home_a" />
 
-      <TextView
-          android:layout_width="match_parent"
-          android:layout_height="60dp"
-          android:gravity="center"
-          android:text="@string/app_name"
-          android:textColor="@color/white"
-          android:textSize="30sp"
-          android:textStyle="bold"
-          />
+
     </FrameLayout>
   </LinearLayout>
 
