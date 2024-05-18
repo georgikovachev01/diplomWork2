@@ -4,7 +4,7 @@
 [![Issues](https://img.shields.io/github/issues-raw/oss2019/instigo-android.svg?color=red)](https://github.com/oss2019/instigo-android/issues) [![Pull Requests](https://img.shields.io/github/issues-pr/oss2019/instigo-android.svg?color=yellow)](https://github.com/oss2019/instigo-android/pulls) [![License](https://img.shields.io/github/license/oss2019/instigo-android.svg?logoColor=red)](https://github.com/oss2019/instigo-android/blob/master/LICENSE.md) [![Gitter](https://img.shields.io/badge/chat-on%20gitter-ff006f.svg?style=flat-square)](https://gitter.im/oss2019/instigo-android)
 
 
-# InstiGo-Android
+# Parking App-Android
 InstiGo is an android app for the students and faculties of IIT Dharwad that provide a one stop solution for matters related to mess, academia and hostel. 
 
 ![InstiGo_cover](https://user-images.githubusercontent.com/34706326/82624729-eab6c100-9c00-11ea-80eb-1ab052f4592c.jpg)
